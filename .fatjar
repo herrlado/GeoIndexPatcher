@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Jun 19 12:06:40 CEST 2011
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=GeoIndexPatcher_0.1.jar
+manifest.mergeall=true
+manifest.mainclass=Main
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
