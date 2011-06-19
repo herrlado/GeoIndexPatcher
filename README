@@ -1,0 +1,15 @@
+windows ზე ეშვება კლიკით linux ზე უნდა java -jar GeoIndexPatcher_0.1.jar
+
+მერე ვირჩევთ ფაილს
+/data/databases/com.android.providers.contacts/contscts2.db
+ან
+/dbdata/databases/com.android.providers.contacts/contscts2.db
+
+შეიძლება contacts.db ერქვას. თუ არა აქ დაწერეთ რაც არის.
+
+ხოდა დავაკოპირებთ მერე sdcard ზე ან როგორმე რომ pc ზე აღმოჩნდეს.
+
+მანამდე ნახეთ root explorer ით (properties -> Change owner) და დაიმახსოვრეთ. ასევე change permissions და დაიმახსოვრეთ. უკან რომ გადააწერთ იგივე owner უნდ ადასვათ და permission
+მხოლოდ ამის მერე გაუკეთეთ reboot. ორიგინალი შეინახეთ ყოველი შემთხვევისთვის.
+
+http://forum.ge/?act=ST&f=80&t=34266875&st=345#entry26052226
